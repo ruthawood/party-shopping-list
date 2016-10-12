@@ -1,3 +1,5 @@
 Coca cola
 Pepsi
 Fanta
+Tea
+Wine
