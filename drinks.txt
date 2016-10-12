@@ -3,3 +3,6 @@ Pepsi
 Fanta
 Tea
 Wine
+Tequila
+Gin
+Coffee

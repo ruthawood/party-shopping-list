@@ -3,3 +3,6 @@ Crisps
 Chocolate
 Salad
 Strawberries
+Cucumber
+Tomatoes
+Houmous
