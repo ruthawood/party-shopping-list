@@ -6,3 +6,5 @@ Strawberries
 Cucumber
 Tomatoes
 Houmous
+Burgers
+Hotdogs
